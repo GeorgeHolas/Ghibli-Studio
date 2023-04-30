@@ -307,20 +307,20 @@ small {
     width: 70%;
   }
 
-  .about-us img {
-    display: none;
-  }
-
   .about-us p {
     width: 100%;
   }
 }
 
 @media only screen and (max-width: 888px) {
-  .contact {
-    display: block;
+  .site-header {
+    font-size: .4rem;
   }
 
+  .contact {
+    display: block;
+    font-size: 12px;
+  }
   .contact h2 {
     margin: 30px 0;
     text-align: center;
@@ -334,10 +334,20 @@ small {
   .contact div > ul {
     display: inline-block;
     text-align: left;
+    margin-top: 65px;
+    padding: 25px 5px 25px 25px;
   }
 
   .social-button {
-    padding: 0 10px;
+    padding: 0 .5px;
+    padding-left: 0 .3px;
+  }
+
+  footer {
+    text-align: center;
+    padding-top: 230px;
+    display: flex;
+    align-items: flex-start;
   }
 }
 
