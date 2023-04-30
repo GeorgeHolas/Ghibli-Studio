@@ -355,11 +355,12 @@ small {
   }
 }
 
-@media only screen and (max-width: 683px) {
+@media only screen and (max-width: 720px) {
   .site-header {
     justify-content: center;
     padding: 0;
     text-align: center;
+    font-size: .4rem;
   }
 
   .site-header .logo {
