@@ -296,6 +296,10 @@ small {
 }
 
 @media only screen and (max-width: 997px) {
+    .site-header {
+    font-size: .4rem;
+  }
+  
   .about-us {
     text-align: center;
   }
@@ -314,7 +318,7 @@ small {
 
 @media only screen and (max-width: 888px) {
   .site-header {
-    font-size: .1rem;
+    font-size: .4rem;
   }
 
   .contact {
