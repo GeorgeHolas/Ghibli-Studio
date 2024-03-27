@@ -35,7 +35,6 @@ About Us: Information about the club and its services.
 Events: Upcoming events in 2023.
 Contact: Contact information for the club.
 Contributing
-We welcome contributions from the community! If you'd like to contribute:
 
 Fork the repository.
 Create a new branch (git checkout -b feature/your-branch-name).
@@ -45,3 +44,6 @@ Push to the branch (git push origin feature/your-branch-name).
 Create a new Pull Request.
 Contact
 If you have any questions or suggestions, feel free to contact me.
+
+Or you click on this link to see it :
+https://ghiblistudios.netlify.app/
