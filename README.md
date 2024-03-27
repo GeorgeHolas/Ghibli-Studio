@@ -1,6 +1,6 @@
 # Ghibli Studio Club
 
-Welcome to the Ghibli Studio Club! A static website as a project for Codecademy.
+Welcome to the Ghibli Studio Club! A responsive website as a project for Codecademy.
 
 ## Table of Contents
 - [About](#about)
