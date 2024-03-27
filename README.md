@@ -45,5 +45,4 @@ Create a new Pull Request.
 Contact
 If you have any questions or suggestions, feel free to contact me.
 
-Or you click on this link to see it :
-https://ghiblistudios.netlify.app/
+- Deployed by netlify https://ghiblistudios.netlify.app
