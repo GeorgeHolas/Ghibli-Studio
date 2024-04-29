@@ -2,14 +2,6 @@
 
 Welcome to the Ghibli Studio Club! A responsive website as a project for Codecademy.
 
-## Table of Contents
-- [About](#about)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [License](#license)
-
 ## About
 Ghibli Studio Club is a project that aims to bring together fans of Studio Ghibli in Saltillo, Mexico. We organize cosplay events, workshops, and screenings of Ghibli movies.
 
