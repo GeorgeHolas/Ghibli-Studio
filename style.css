@@ -34,7 +34,7 @@ button {
     border-radius: 5px;
     color: black;
     cursor: pointer;
-    transition: border-color 0.3s, color 0.3s, background 0.3s;
+    transition: border-color 0.3s, color 0.3s;
 }
   
 section {
@@ -96,7 +96,7 @@ a {
 /*Banner*/
 
 .banner {
-  background-image: url(../images/Header.jpg);
+  background-image: url("../images/Header.webp");
   background-size: cover;
   display: flex;
   height: 50rem;
@@ -296,10 +296,6 @@ small {
 }
 
 @media only screen and (max-width: 997px) {
-    .site-header {
-    font-size: .4rem;
-  }
-  
   .about-us {
     text-align: center;
   }
@@ -355,12 +351,11 @@ small {
   }
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 683px) {
   .site-header {
     justify-content: center;
     padding: 0;
     text-align: center;
-    font-size: .4rem;
   }
 
   .site-header .logo {
